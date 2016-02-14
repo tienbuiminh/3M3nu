@@ -18,6 +18,8 @@
 	+ notification:
 		. Mon xong
 
+    + Welcome screen: tu mo ra khi khach connect wifi: chua link toi app.
+
 - Cho nhan vien phuc vu dung
 	+ menu va goi mon
 	+ thanh toan
@@ -49,4 +51,4 @@
 	+ Khai bao menu
 	+ report
 
-	
+** Note: Support chuoi cua hang
