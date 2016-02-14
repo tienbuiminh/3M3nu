@@ -1,0 +1,52 @@
+- Cho khach hang dung:
+	+ menu va goi mon
+	+ goi nhan vien phuc vu:
+		. Other
+		. y/c Thanh toan
+	+ cancel order
+	+ xem thu tu phuc vu
+	+ danh gia chat luong
+	+ social:
+		. check in
+		. share, like, ....
+	+ list promotion
+
+	+ notification:
+		. Mon het.
+
+	** Cho cac cua hang tu phuc vu:
+	+ notification:
+		. Mon xong
+
+- Cho nhan vien phuc vu dung
+	+ menu va goi mon
+	+ thanh toan
+	+ notification:
+		. khach goi
+		. dat mon
+		. cancel
+		. update order
+		. mon xong
+
+
+- Nhan vien bep
+	+ Danh sach mon da dat (theo group)
+	+ thong bao mon da xong
+	+ thong bao:
+		. cancel
+		. update order
+		. mon moi dat
+
+	+ Cap nhat tinh trang menu (con/het)
+
+- Thu ngan:
+	. Nhan yeu cau thanh toan
+	. request thanh toan cho nhan vien p.vu
+	. cap nhat tt thanh toan cua order.
+
+
+- Nhan vien quan tri
+	+ Khai bao menu
+	+ report
+
+	
