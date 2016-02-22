@@ -52,3 +52,20 @@
 	+ report
 
 ** Note: Support chuoi cua hang
+
+
+
+-----------------------
+
+Problems:
+1. Khach vao thi lam sao la khach ngoi ban nao?
+	- dan barcode/qrcode o ban.
+	- Thiet bi tai ban
+	- Nhan vien tu nhap
+	- Nhan vien dung dinh vi qua bluetooth.
+
+2. Welcome screen: tu mo ra khi khach connect wifi: chua link toi app. ---> Giai phap cu the?
+
+3. Thuat toan group mon an cho bep cu the la gi?
+
+4. Bep cap nhat, thong bao mon het, mon xong kieu gi: Tham khao mo hinh thuc te.

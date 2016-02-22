@@ -1,0 +1,9 @@
+int id;
+String name;
+double price;
+String image;
+List<int> categoryIds;
+String description;
+int shares;
+int likes;
+double rating;
